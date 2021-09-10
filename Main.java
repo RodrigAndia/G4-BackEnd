@@ -42,9 +42,6 @@ public class Main {
 		System.out.println("Listar Total de Productos");
 		System.out.println(productos.toString());
 		System.out.println();
-		
-		
-
 	}
 
 }
